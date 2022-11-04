@@ -238,6 +238,8 @@
 
 
         <h2>Este es el parrafo creado desde diseñador1</h2>
+        
+        <h2>Mi Septimo Parrafo</h2>
 
 
     </div>
